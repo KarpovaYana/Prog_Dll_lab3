@@ -1,0 +1,66 @@
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe.config
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.AssemblyReference.cache
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Properties.Resources.resources
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.GenerateResource.cache
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CoreCompileInputs.cache
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Menu.resources
+C:\Users\sasasasass\source\repos\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Вход.resources
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe.config
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.AssemblyReference.cache
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Menu.resources
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Вход.resources
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Properties.Resources.resources
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.GenerateResource.cache
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CoreCompileInputs.cache
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\Ляля Колоббок\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe.config
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Menu.resources
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Вход.resources
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Properties.Resources.resources
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe.config
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.AssemblyReference.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Menu.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Вход.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Properties.Resources.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.GenerateResource.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Dispatcher_lib.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Dispatcher_lib.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CopyComplete
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe.config
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.exe
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Метаданные_ТиМП_Лаб2.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Dispatcher_lib.dll
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\bin\Debug\Dispatcher_lib.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Menu.resources
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Вход.resources
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.Properties.Resources.resources
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Метаданные_ТиМП_Лаб2\obj\Debug\Метаданные_ТиМП_Лаб2.csproj.CopyComplete
