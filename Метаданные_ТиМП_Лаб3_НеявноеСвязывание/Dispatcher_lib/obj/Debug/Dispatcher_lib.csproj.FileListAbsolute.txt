@@ -1,0 +1,18 @@
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Dispatcher_lib\bin\Debug\Dispatcher_lib.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Dispatcher_lib\bin\Debug\Dispatcher_lib.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.csproj.AssemblyReference.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Dispatcher_lib\bin\Debug\Dispatcher_lib.dll
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Dispatcher_lib\bin\Debug\Dispatcher_lib.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.dll
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2\Dispatcher_lib\obj\Debug\Dispatcher_lib.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2_НеявноеСвязывание\Dispatcher_lib\bin\Debug\Dispatcher_lib.dll
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2_НеявноеСвязывание\Dispatcher_lib\bin\Debug\Dispatcher_lib.pdb
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2_НеявноеСвязывание\Dispatcher_lib\obj\Debug\Dispatcher_lib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2_НеявноеСвязывание\Dispatcher_lib\obj\Debug\Dispatcher_lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2_НеявноеСвязывание\Dispatcher_lib\obj\Debug\Dispatcher_lib.dll
+C:\Users\user\Desktop\open-source-education-lol-main\Метаданные_ТиМП_Лаб2_НеявноеСвязывание\Dispatcher_lib\obj\Debug\Dispatcher_lib.pdb
